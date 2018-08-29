@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata xml:lang="de"><Esri><CreaDate>20180725</CreaDate><CreaTime>16024800</CreaTime><ArcGISFormat>1.0</ArcGISFormat><SyncOnce>TRUE</SyncOnce><DataProperties><lineage><Process ToolSource="c:\program files\arcgis\pro\Resources\ArcToolbox\toolboxes\Spatial Analyst Tools.tbx\ExtractByMask" Date="20180725" Time="160248">ExtractByMask sdei-global-summer-lst-2013-day-max-asia.tif INDIA_Boundary C:\temp\IndiaTemp</Process></lineage></DataProperties></Esri></metadata>
